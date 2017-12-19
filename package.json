@@ -1,0 +1,19 @@
+{
+  "name": "ree-capital.com",
+  "version": "1.0.0",
+  "description": "Mockup of a Hedge Fund site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelup20/ree-capital.com.git"
+  },
+  "author": "Nelu Platonov  email: nplatonovbusiness@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelup20/ree-capital.com/issues"
+  },
+  "homepage": "https://github.com/nelup20/ree-capital.com#readme"
+}
